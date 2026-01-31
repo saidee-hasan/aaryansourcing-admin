@@ -1,0 +1,219 @@
+{
+    "NAV_CONFIG": {
+      "logo": {
+        "collapsed": "N",
+        "expanded": "Network",
+        "iconGradient": "from-indigo-600 to-purple-600",
+        "textGradient": "from-indigo-600 to-purple-500"
+      },
+      "userItems": [
+        {
+          "icon": "AiOutlineDashboard",
+          "text": "Dashboard",
+          "path": "/"
+        },
+        {
+          "icon": "TbCoinTakaFilled",
+          "text": "Recharge",
+          "path": "/recharge"
+        },
+        {
+          "icon": "MdSupportAgent",
+          "text": "Support",
+          "path": "/support"
+        },
+        {
+          "section": "AUTO MAKER",
+          "items": [
+            {
+              "icon": "FaFingerprint",
+              "text": "Auto Nid ",
+              "path": "/nid"
+            },
+            {
+              "icon": "FaCalendar",
+              "text": "BIRTH MAKE AUTO",
+              "path": "/birth"
+            },
+            {
+              "icon": "FaCopy",
+              "text": "SERVER COPY AUTO",
+              "path": "/nidServiceTool"
+            },
+            {
+              "icon": "FaSignInAlt",
+              "text": "Sign In Copy ID",
+              "path": "/sign-copy-nid"
+            }
+          ]
+        },
+        {
+          "section": "Order",
+          "items": [
+            {
+              "icon": "FiFilePlus",
+              "text": "Sign Order ",
+              "path": "/sign-order"
+            },
+            {
+              "icon": "FaFile",
+              "text": "TIN CERTIFICATE",
+              "path": "/tin-certificate"
+            },
+            {
+              "icon": "FiFileText",
+              "text": "Nid Pdf",
+              "path": "/nid-order"
+            }
+          ]
+        },
+        {
+          "section": "Mobile Operators",
+          "items": [
+            {
+              "icon": "FiSmartphone",
+              "text": "Sim Biometiric ",
+              "path": "/sim-biometiric"
+            },
+            {
+              "icon": "FaLock",
+              "text": "Pin Reset",
+              "path": "/pin-reset"
+            },
+            {
+              "icon": "FiPhoneOutgoing",
+              "text": "Call List",
+              "path": "/call-list-operators"
+            },
+            {
+              "icon": "FaMapPin",
+              "text": "Location",
+              "path": "/location"
+            },
+            {
+              "icon": "FaLink",
+              "text": "Nid To All Number",
+              "path": "/nid-all-number"
+            },
+            {
+              "icon": "FaSimCard",
+              "text": "ALl SIM SMS List",
+              "path": "/sim"
+            }
+          ]
+        },
+        {
+          "section": "Info",
+          "items": [
+            {
+              "icon": "FaCreditCard",
+              "text": "Mobile Banking Info ",
+              "path": "/mobile-bank-info"
+            },
+            {
+              "icon": "FaCode",
+              "text": "IMEI to Active Number",
+              "path": "/imei"
+            },
+            {
+              "icon": "FiClock",
+              "text": "Call List (3-6 Months)",
+              "path": "/call-list"
+            },
+            {
+              "icon": "FiSearch",
+              "text": "Nid By Name",
+              "path": "/nid-by-name"
+            }
+          ]
+        },
+        {
+          "section": "Passport Info",
+          "items": [
+            {
+              "icon": "FaGlobe",
+              "text": "E-Passport Info ",
+              "path": "/e-passport-info"
+            },
+            {
+              "icon": "FaBookOpen",
+              "text": "MRP Passport",
+              "path": "/mrpsb"
+            },
+            {
+              "icon": "FaClone",
+              "text": "E-Passport Sb Copy",
+              "path": "/e-passport-sb"
+            }
+          ]
+        },
+        {
+          "section": "Statements",
+          "items": [
+            {
+              "icon": "FaChartBar",
+              "text": "Mobile Banking Statements",
+              "path": "/mobile-statements"
+            }
+          ]
+        },
+        {
+          "section": "ORDER SERVICE",
+          "items": [
+            {
+              "icon": "FaIdBadge",
+              "text": "NID Info",
+              "path": "/nidInfo"
+            }
+          ]
+        }
+      ],
+      "adminItems": [
+        {
+          "icon": "AiOutlineDashboard",
+          "text": "Admin Dashboard",
+          "path": "/admin"
+        },
+        {
+          "section": "USER MANAGEMENT",
+          "items": [
+            {
+              "icon": "FiUsers",
+              "text": "All Users",
+              "path": "/admin/users"
+            },
+            {
+              "icon": "FiActivity",
+              "text": "User Activity",
+              "path": "/admin/activity"
+            },
+            {
+              "icon": "FiDollarSign",
+              "text": "Transactions",
+              "path": "/admin/transactions"
+            }
+          ]
+        },
+        {
+          "section": "SYSTEM ADMIN",
+          "items": [
+            {
+              "icon": "FiDatabase",
+              "text": "Database",
+              "path": "/admin/database"
+            },
+            {
+              "icon": "FiShield",
+              "text": "Permissions",
+              "path": "/admin/permissions"
+            },
+            {
+              "icon": "MdAdminPanelSettings",
+              "text": "Admin Tools",
+              "path": "/admin/tools"
+            }
+          ]
+        }
+      ]
+    }
+  }
